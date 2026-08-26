@@ -22,7 +22,8 @@ Effect of discounts on customer behaviour
 Use of DAX for calculated fields (Profit margin %, discount %, total sales)
 
 ## Dashboard
-<img width="1158" height="606" alt="Screenshot 2026-08-26 115234" src="https://github.com/user-attachments/assets/783ad812-330c-4b0b-8635-fffe3afc2bfd" />
+<img width="1164" height="572" alt="Screenshot 2026-08-26 115042" src="https://github.com/user-attachments/assets/75d54ec0-ada4-496b-9fa8-d023123cb7ba" />
+
 
 
 ## Procedure:

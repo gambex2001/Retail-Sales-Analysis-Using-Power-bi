@@ -1,4 +1,4 @@
-# Retail-Sales-Analysis-Using-Power-bi
+<img width="505" height="97" alt="image" src="https://github.com/user-attachments/assets/1ccde097-29b8-469b-9729-52342c882984" /># Retail-Sales-Analysis-Using-Power-bi
 
 ## Project Objective
 To analyze sales data from multiple store location in Abuja, Nigeria, with the goal of uncovering key business insights related to revenue generation, profitability, discount strategies and customer behaviour - ultimately for improved performance.
@@ -6,3 +6,47 @@ To analyze sales data from multiple store location in Abuja, Nigeria, with the g
 # Dataset used
 https://github.com/gambex2001/Retail-Sales-Analysis-Using-Power-bi/blob/main/Sales%20Analysis.pbix
 https://github.com/gambex2001/Retail-Sales-Analysis-Using-Power-bi/blob/main/Sales%20Table_122608.xlsx
+
+## Questions
+- Which product category has the  highest profit margin?				
+- Which store location generates the most revenue?				
+- does customer type affect average discount?				
+- Between online and offline sales, which is more profitable?	
+
+## Key points Covered
+Product category contribution to overall profit efficiency
+Revenue trends across time and store locations
+Impact of sales channel on Profitaility
+Product category contribution to total profit and margin
+Effect of discounts on customer behaviour
+Use of DAX for calculated fields (Profit margin %, discount %, total sales)
+
+## Procedure:
+Data Preparation
+Two raw tables were used; Sales and Product
+Uncalculated fields like profit, profit margin, and discounts % were added using DAX
+
+## Data Modeling
+Established relationship between product and sales tables using Product ID
+
+## Calculated Measures 
+Total Sales = Quantity * Unit Price
+Net Sales + Total Sales - Discounts
+Total cost = Cost Price * Quantity
+Profit = Net Sales - Total Cost
+Profit margin % = Profit ÷ Net Sales
+Discount % = Discount amount ÷ Total Sales
+
+## Visual Design
+- Bar/Column charts for comparisn
+- Line Chart with Forecasts for trends
+- Slicers for filtering by date, customer type, and product category
+- Cards for KPI (Profits)
+
+## Conclusion
+This sales analysis empowers stakeholders to:
+_ Identify high-performing stores and underperformance
+_ Understand how discount strategies affect different customer tyoes
+_ Make data-driven decisions on pricing, promotion and inventory
+_ Predict future sales outcome and prepare for high-volume seasons
+_ Communicate insights clearly using dynamic visuals and narratives

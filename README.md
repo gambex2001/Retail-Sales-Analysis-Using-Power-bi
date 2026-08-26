@@ -3,10 +3,8 @@ To analyze sales data from multiple store location in Abuja, Nigeria, with the g
 
 # Dataset used
 
-[Download powerbi file](https://github.com/gambex2001/Retail-Sales-Analysis-Using-Power-bi/raw/refs/heads/main/Sales%20Analysis.pbix)
-[Download excel file](https://github.com/gambex2001/Retail-Sales-Analysis-Using-Power-bi/raw/refs/heads/main/Sales%20Table_122608.xlsx)
-https://github.com/gambex2001/Retail-Sales-Analysis-Using-Power-bi/blob/main/Sales%20Analysis.pbix
-https://github.com/gambex2001/Retail-Sales-Analysis-Using-Power-bi/blob/main/Sales%20Table_122608.xlsx
+[Download Powerbi file](https://github.com/gambex2001/Retail-Sales-Analysis-Using-Power-bi/raw/refs/heads/main/Sales%20Analysis.pbix)
+[Download Excel file](https://github.com/gambex2001/Retail-Sales-Analysis-Using-Power-bi/raw/refs/heads/main/Sales%20Table_122608.xlsx)
 
 ## Questions
 - Which product category has the  highest profit margin?				

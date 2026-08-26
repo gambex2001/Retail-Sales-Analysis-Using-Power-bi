@@ -21,6 +21,8 @@ Product category contribution to total profit and margin
 Effect of discounts on customer behaviour
 Use of DAX for calculated fields (Profit margin %, discount %, total sales)
 
+## Dashboard
+
 ## Procedure:
 Data Preparation
 Two raw tables were used; Sales and Product

@@ -1,5 +1,3 @@
-<img width="505" height="97" alt="image" src="https://github.com/user-attachments/assets/1ccde097-29b8-469b-9729-52342c882984" /># Retail-Sales-Analysis-Using-Power-bi
-
 ## Project Objective
 To analyze sales data from multiple store location in Abuja, Nigeria, with the goal of uncovering key business insights related to revenue generation, profitability, discount strategies and customer behaviour - ultimately for improved performance.
 

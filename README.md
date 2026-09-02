@@ -56,7 +56,8 @@ _ Make data-driven decisions on pricing, promotion and inventory
 ## Contacts
  📧 [Email](mailto:gambarizulikifli@gmail.com)
  💬 [Chat on Whatsapp](https://wa.me/2347065804203)
- 
+ [My LinkedIn](
+ https://www.linkedin.com/in/zulikifli-gambari-1a5545311)
 
 
 _ Predict future sales outcome and prepare for high-volume seasons
